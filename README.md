@@ -1,4 +1,4 @@
-# Joint Truck & Battery Routing under Solar & V2G Uncertainty
+# Joint Truck & Battery Routing under Solar & V2G EVSP
 
 **Authors:** Nathan Cho, nc437@cornell.edu; Andrea Lodi; Anna Scaglione
 
